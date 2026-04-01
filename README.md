@@ -1,16 +1,22 @@
-# food_app
+# 🍔 Food Ordering App
 
-A new Flutter project.
+A beautiful Flutter-based food ordering app with a modern UI and smooth user experience.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🔍 Search food items
+- ➕ Add to cart
+- 🛒 Cart management
+- 💳 Fake payment (GPay UI)
+- ✅ Order success screen
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## ▶️ Run the App
+```bash
+flutter pub get
+flutter run -d chrome
