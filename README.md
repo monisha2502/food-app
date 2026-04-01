@@ -1,4 +1,4 @@
-# 🍔 Food Ordering App
+# 🍔 Food Ordering App | Flutter Web App
 
 A beautiful Flutter-based food ordering app with a modern UI and smooth user experience.
 
@@ -14,6 +14,9 @@ A beautiful Flutter-based food ordering app with a modern UI and smooth user exp
 ## 🛠️ Tech Stack
 - Flutter
 - Dart
+
+## Screenshots
+![App UI](https://github.com/user-attachments/assets/117de3bc-b6f4-41c5-a700-cdaa7f837d81)
 
 
 ## ▶️ Run the App
